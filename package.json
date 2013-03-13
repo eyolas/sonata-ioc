@@ -1,0 +1,33 @@
+{
+    "name": "sonata-ioc",
+    "author": "David TOUZET <dtouzet@gmail.com>",
+    "description": "Annotation Parser",
+    "version": "1.0.0-alpha",
+    "homepage": "",
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "bugs" : {
+        "url" : ""
+    },
+    "keywords": [
+        "dependency",
+        "injection",
+        "injector",
+        "ioc",
+        "container",
+        "annotations"
+    ],
+    "main": "index.js",
+    "license": "mit",
+    "dependencies": {
+        "glob" : ">=3.1.17"
+    },
+    "devDependencies": {
+    },
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}

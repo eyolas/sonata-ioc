@@ -1,0 +1,22 @@
+{
+    "David":{
+        "module":"./Model/User.js",
+        "props":{
+            "name":"David",
+            "firstname": "Touzet"
+        }
+    },
+    "DavidWife": {
+        "module":"./Model/User.js",
+        "props":{
+            "name":"Laetitia",
+            "firstname": "Dumont"
+        }
+    },
+    "David2": {
+        "module": "./Model/UserWithInjectByArgs.js",
+        "args": [
+            "David", "Touzet"
+        ]
+    }
+}
